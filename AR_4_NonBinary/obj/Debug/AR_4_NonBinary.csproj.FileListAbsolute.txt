@@ -1,0 +1,16 @@
+G:\AR_4_NonBinary\AR_4_NonBinary\bin\Debug\AR_4_NonBinary.exe
+G:\AR_4_NonBinary\AR_4_NonBinary\bin\Debug\AR_4_NonBinary.pdb
+G:\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\ResolveAssemblyReference.cache
+G:\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.frm_Main.resources
+G:\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.Properties.Resources.resources
+G:\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.csproj.GenerateResource.Cache
+G:\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.exe
+G:\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.pdb
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\bin\Debug\AR_4_NonBinary.exe
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\bin\Debug\AR_4_NonBinary.pdb
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\ResolveAssemblyReference.cache
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.frm_Main.resources
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.Properties.Resources.resources
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.csproj.GenerateResource.Cache
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.exe
+D:\My Papers\Tools\AR_4_NonBinary\AR_4_NonBinary\obj\Debug\AR_4_NonBinary.pdb
